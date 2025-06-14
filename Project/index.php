@@ -212,7 +212,9 @@ if ($isSignedIn) {
     <footer class="bg-gray-900 text-white p-6">
         <div class="grid grid-cols-3 gap-6">
             <div>
+                <h5>Making a change for test</h5>
                 <h4 class="font-bold mb-4">Get to Know Us</h4>
+
                 <ul class="space-y-2">
                     <li><a href="#" class="text-gray-400 hover:text-yellow-400">About Us</a></li>
                     <li><a href="#" class="text-gray-400 hover:text-yellow-400">Careers</a></li>
